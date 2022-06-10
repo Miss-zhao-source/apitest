@@ -21,7 +21,7 @@ class Test_add:
     def setup(self):
         print("test_login run")
         self.headers = {
-            "Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2NTQ0MDE4NzAsImV4cCI6MTY1NDQ4ODI3MH0.MT6QcGbAc7ZlZStPKN7QKqFBtpH_pMNVpAsO3waFvHE"
+            "Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjUwMCwicmlkIjowLCJpYXQiOjE2NTQ4MjkyMTIsImV4cCI6MTY1NDkxNTYxMn0.bGMyQedl1YmDuGQKfvRYyr3R8O3JcBiXoT4r4m8YhtM"
         }
     def teardown(self):
         print("test_add end")
